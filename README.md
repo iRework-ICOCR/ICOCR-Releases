@@ -86,3 +86,7 @@ Session history is cleared when ICOCR closes. Captures and saved logs persist se
 ## Documentation and support
 
 Report bugs through this repository's **Issues** tab. Include the version, CPU/GPU build, operating system, reproduction steps, expected/actual result and relevant log excerpt. For camera or OCR issues, include the camera format and a sample image where possible. Remove confidential information before posting.
+
+## Download ICOCR & ICDB Beta
+
+[Download Beta Release](https://github.com/iRework-ICOCR/ICOCR-Releases/releases)
