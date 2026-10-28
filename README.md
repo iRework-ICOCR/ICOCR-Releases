@@ -2,6 +2,8 @@
 
 ICOCR reads markings on integrated circuits and electronic components from microscope-camera images or saved images using local optical character recognition (OCR). It helps technicians read markings, look up candidate parts and consult references during electronics repair.
 
+![ICOCR](./images/ICOCR_01.jpg)
+
 **Current beta: 0.8.9.6-RC1.** This repository distributes compiled releases and documentation. Application source code is not included.
 
 ## Features
