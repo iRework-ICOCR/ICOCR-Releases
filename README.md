@@ -85,7 +85,4 @@ Session history is cleared when ICOCR closes. Captures and saved logs persist se
 
 ## Documentation and support
 
-- [Beta release notes](RELEASE_NOTES.md)
-- [Troubleshooting](docs/TROUBLESHOOTING.md)
-
 Report bugs through this repository's **Issues** tab. Include the version, CPU/GPU build, operating system, reproduction steps, expected/actual result and relevant log excerpt. For camera or OCR issues, include the camera format and a sample image where possible. Remove confidential information before posting.
